@@ -1,11 +1,10 @@
 # CLQ: Cross-Layer Guided Orthogonal-based Quantization for Diffusion Transformers
 
-[Kai Liu](https://kai-liu001.github.io/), [Shaoqiu Zhang](https://htqin.github.io/), [Linghe Kong](https://www.cs.sjtu.edu.cn/~linghe.kong/), and [Yulun Zhang](http://yulunzhang.com/),
+[Kai Liu](https://kai-liu.cn/), [Shaoqiu Zhang](https://qiushao-e.github.io/), [Linghe Kong](https://www.cs.sjtu.edu.cn/~linghe.kong/), and [Yulun Zhang](http://yulunzhang.com/),
 
 "CLQ: Cross-Layer Guided Orthogonal-based Quantization for Diffusion Transformers", arXiv, 2025
 
 [[arXiv]()] [[Supplementary Material]()]
-
 
 
 #### 🔥🔥🔥 News
