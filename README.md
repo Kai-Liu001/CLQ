@@ -23,13 +23,15 @@
 ---
 
 
-## Contents
+## <a name="contents"></a> Contents
 
-[TOC]
+- [Contents](#contents)
+- [Results](#results)
+- [Citation](#citation)
 
 
 
-##  Results
+## <a name="results"></a> Results
 
 
 <details>
@@ -79,7 +81,7 @@
 
 </details>
 
-## Citation
+## <a name="citation"></a> Citation
 If you find the code helpful in your research or work, please cite the following paper(s).
 
 ```
