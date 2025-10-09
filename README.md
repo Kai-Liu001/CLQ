@@ -4,7 +4,16 @@
 
 "CLQ: Cross-Layer Guided Orthogonal-based Quantization for Diffusion Transformers", arXiv, 2025
 
-[[arXiv]()] [[Supplementary Material]()]
+<div>
+  <a href="https://github.com/Kai-Liu001/InfVSR" target="_blank" style="text-decoration: none;">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Kai-Liu001/InfVSR">
+  </a>
+  <a href="https://github.com/Kai-Liu001/InfVSR/stargazers" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/github/stars/Kai-Liu001/InfVSR?style=social">
+  </a>
+</div>
+
+[[arXiv](https://arxiv.org/abs/2509.24416)] [[Supplementary Material](https://github.com/Kai-Liu001/CLQ/releases/tag/Supp)]
 
 
 #### 🔥🔥🔥 News
@@ -85,10 +94,10 @@
 If you find the code helpful in your research or work, please cite the following paper(s).
 
 ```
-@inproceedings{liu2025clq,
-    title={CLQ: Cross-Layer Guided Orthogonal-based Quantization for Diffusion Transformers},
-    author={Liu, Kai and Zhang, Shaoqiu and Kong, Linghe and Zhang, Yulun},
-    booktitle={arXiv preprint arXiv:XXXX.XXXXX},
-    year={2025}
+@article{liu2025clq,
+  title={CLQ: Cross-Layer Guided Orthogonal-based Quantization for Diffusion Transformers},
+  author={Liu, Kai and Zhang, Shaoqiu and Kong, Linghe and Zhang, Yulun},
+  journal={arXiv preprint arXiv:2509.24416},
+  year={2025}
 }
 ```
