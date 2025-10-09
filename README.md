@@ -5,11 +5,11 @@
 "CLQ: Cross-Layer Guided Orthogonal-based Quantization for Diffusion Transformers", arXiv, 2025
 
 <div>
-  <a href="https://github.com/Kai-Liu001/InfVSR" target="_blank" style="text-decoration: none;">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Kai-Liu001/InfVSR">
+  <a href="https://github.com/Kai-Liu001/CLQ" target="_blank" style="text-decoration: none;">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Kai-Liu001/CLQ">
   </a>
-  <a href="https://github.com/Kai-Liu001/InfVSR/stargazers" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/github/stars/Kai-Liu001/InfVSR?style=social">
+  <a href="https://github.com/Kai-Liu001/CLQ/stargazers" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/github/stars/Kai-Liu001/CLQ?style=social">
   </a>
 </div>
 
